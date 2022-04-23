@@ -25,7 +25,7 @@
 
    ---
    Signup Page
-![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/shelpSignup.png)
+![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/pics/signup.png)
 
  ---
   Homepage
