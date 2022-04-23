@@ -31,21 +31,22 @@
 
  ---
   Homepage
-![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/homepage.png)
+ <img src="pics/home.png" >
 
  ---
 Course Page
-![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/coursePage.png)
+ <img src="pics/course.png" >
 
  ---
-Preference Page
-![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/shlepPreference.png)
+ Teacher Uploading Form
+ <img src="pics/uploaddescription.png" >
+
 
  ---
-Teacher Uploading Form
-![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/teachershelp.png)
+ Preference Page
+ <img src="pics/chooseinterest.png" >
+
 
  ---
 Uploading Videos
-![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/uploadshelp.png)
-
+<img src="pics/upload.png" >
