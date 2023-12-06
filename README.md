@@ -26,6 +26,7 @@
    ---
    Signup Page
 
+![ScreenShot](pics/signup.png)
   <img src="pics/signup.png" >
 
 
